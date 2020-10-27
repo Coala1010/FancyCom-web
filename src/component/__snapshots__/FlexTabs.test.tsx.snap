@@ -1,0 +1,256 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should be rendered in the dom 1`] = `
+<div
+  className="makeStyles-screen-1"
+>
+  <div
+    className="makeStyles-flexTabContainer-2"
+  >
+    <div
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          className="makeStyles-tabBtn-3"
+          id="isActive"
+          onClick={[Function]}
+          style={
+            Object {
+              "borderBottomColor": "#008DD8",
+            }
+          }
+        >
+          <p
+            className="makeStyles-tabTitle-4"
+            id="Builder"
+            style={
+              Object {
+                "color": "#008DD8",
+              }
+            }
+          >
+            Builder
+          </p>
+          <div
+            onClick={[Function]}
+            style={
+              Object {
+                "width": 20,
+              }
+            }
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root"
+              focusable="false"
+              style={
+                Object {
+                  "color": "#008DD8",
+                  "fontSize": 20,
+                  "marginLeft": 5,
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6-1.41-1.41z"
+              />
+            </svg>
+          </div>
+        </div>
+        <div
+          className="makeStyles-tabBtn-3"
+          id="notActive"
+          onClick={[Function]}
+          style={
+            Object {
+              "borderBottomColor": "white",
+            }
+          }
+        >
+          <p
+            className="makeStyles-tabTitle-4"
+            id="Calendar"
+            style={
+              Object {
+                "color": "#607380",
+              }
+            }
+          >
+            Calendar
+          </p>
+          <div
+            onClick={[Function]}
+            style={
+              Object {
+                "width": 20,
+              }
+            }
+          />
+        </div>
+        <div
+          className="makeStyles-tabBtn-3"
+          id="notActive"
+          onClick={[Function]}
+          style={
+            Object {
+              "borderBottomColor": "white",
+            }
+          }
+        >
+          <p
+            className="makeStyles-tabTitle-4"
+            id="Insights"
+            style={
+              Object {
+                "color": "#607380",
+              }
+            }
+          >
+            Insights
+          </p>
+          <div
+            onClick={[Function]}
+            style={
+              Object {
+                "width": 20,
+              }
+            }
+          />
+        </div>
+        <div
+          className="makeStyles-tabBtn-3"
+          id="notActive"
+          onClick={[Function]}
+          style={
+            Object {
+              "borderBottomColor": "white",
+            }
+          }
+        >
+          <p
+            className="makeStyles-tabTitle-4"
+            id="Moments"
+            style={
+              Object {
+                "color": "#607380",
+              }
+            }
+          >
+            Moments
+          </p>
+          <div
+            onClick={[Function]}
+            style={
+              Object {
+                "width": 20,
+              }
+            }
+          />
+        </div>
+        <div
+          className="makeStyles-tabBtn-3"
+          id="notActive"
+          onClick={[Function]}
+          style={
+            Object {
+              "borderBottomColor": "white",
+            }
+          }
+        >
+          <p
+            className="makeStyles-tabTitle-4"
+            id="About"
+            style={
+              Object {
+                "color": "#607380",
+              }
+            }
+          >
+            About
+          </p>
+          <div
+            onClick={[Function]}
+            style={
+              Object {
+                "width": 20,
+              }
+            }
+          />
+        </div>
+        <div
+          className="makeStyles-tabBtn-3"
+          id="notActive"
+          onClick={[Function]}
+          style={
+            Object {
+              "borderBottomColor": "white",
+            }
+          }
+        >
+          <p
+            className="makeStyles-tabTitle-4"
+            id="Terminal"
+            style={
+              Object {
+                "color": "#607380",
+              }
+            }
+          >
+            Terminal
+          </p>
+          <div
+            onClick={[Function]}
+            style={
+              Object {
+                "width": 20,
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      onClick={[Function]}
+      style={
+        Object {
+          "marginLeft": 5,
+          "marginRight": 5,
+        }
+      }
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        style={
+          Object {
+            "color": "#607380",
+            "fontSize": 25,
+          }
+        }
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;

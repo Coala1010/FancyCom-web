@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should be rendered in the dom 1`] = `
+<div
+  className="makeStyles-screen-1"
+>
+  <div
+    className="makeStyles-container-2"
+    onClick={[Function]}
+  >
+    <div>
+      <div
+        className="makeStyles-leftBar-3"
+        style={
+          Object {
+            "backgroundColor": "#2C8AC8",
+          }
+        }
+      />
+    </div>
+    <div
+      className="makeStyles-taskCard-4"
+    >
+      <div
+        className="makeStyles-iconSection-5"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          style={
+            Object {
+              "color": "#2C8AC8",
+              "fontSize": 30,
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"
+          />
+        </svg>
+      </div>
+      <div
+        className="makeStyles-textSection-6"
+      >
+        <p
+          className="makeStyles-titleText-7"
+        >
+          Publish first funnel
+        </p>
+        <p
+          className="makeStyles-contentText-8"
+        >
+          Donec aliquet ipsum vel vehicula
+        </p>
+      </div>
+      <div
+        className="makeStyles-buttonSection-9"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2C8AC8",
+          }
+        }
+      >
+        <p
+          className="makeStyles-buttonText-10"
+        >
+          Cloud
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

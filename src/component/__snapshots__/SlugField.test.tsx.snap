@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should be rendered in the dom 1`] = `
+<div
+  className="makeStyles-screen-1"
+>
+  <div
+    className="makeStyles-container-2"
+  >
+    <div
+      className="makeStyles-domainHeaderSection-3"
+    >
+      <p
+        className="makeStyles-domainPrefixColor-4"
+      >
+        https://
+      </p>
+    </div>
+    <div
+      className="makeStyles-domainPrefixSection-5"
+    >
+      <div
+        className="Dropdown-root makeStyles-dropdownSection-6"
+      >
+        <div
+          aria-haspopup="listbox"
+          className="Dropdown-control makeStyles-dropdownControlSection-7"
+          onMouseDown={[Function]}
+          onTouchEnd={[Function]}
+        >
+          <div
+            className="Dropdown-placeholder is-selected"
+          >
+            www.linkedin.com
+          </div>
+          <div
+            className="Dropdown-arrow-wrapper"
+          >
+            <span
+              className="Dropdown-arrow"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="makeStyles-slashSection-8"
+    >
+      <p
+        className="makeStyles-domainPrefixColor-4"
+      >
+        /
+      </p>
+    </div>
+    <input
+      className="makeStyles-slugTextSection-9"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <div
+      className="makeStyles-buttonsSection-10"
+    >
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          style={
+            Object {
+              "color": "grey",
+              "fontSize": 25,
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm-1 4l6 6v10c0 1.1-.9 2-2 2H7.99C6.89 23 6 22.1 6 21l.01-14c0-1.1.89-2 1.99-2h7zm-1 7h5.5L14 6.5V12z"
+          />
+        </svg>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          style={
+            Object {
+              "color": "grey",
+              "fontSize": 25,
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

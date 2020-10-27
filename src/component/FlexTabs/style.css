@@ -1,0 +1,60 @@
+.screen {
+  flex: 1;
+  background-color: white;
+}
+.flexTabContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-width: 0px;
+  border-bottom-color: grey;
+  border-bottom-width: 1px;
+  border-top-color: grey;
+  border-top-width: 1px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-style: solid;
+  width: 100%;
+}
+.tabBtn {
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-width: 0px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  flex-direction: row;
+  align-items: center;
+}
+.centeredView {
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  min-width: 300px;
+}
+.modalView {
+  background-color: white;
+  border-radius: 20px;
+  padding: 35px;
+  align-items: center;
+}
+.openButton {
+  background-color: #2196F3;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.textStyle {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

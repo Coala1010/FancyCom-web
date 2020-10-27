@@ -1,0 +1,77 @@
+.screen {
+  flex: 1;
+  background-color: 'white';
+  padding: 10px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.domainHeaderSection {
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  padding-left: 10px;
+  padding-right: 5px;
+  height: 40px;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+.domainPrefixColor {
+  color: white;
+}
+.domainPrefixSection {
+  flex: 1;
+  background-color: grey;
+  height: '100%';
+  flex-wrap: wrap;
+}
+.dropdownSection {
+  background-color: grey;
+  border-width: 1px;
+  border-color: grey;
+  border-style: solid;
+  /* height: 40px; */
+}
+.dropdownControlSection {
+  background-color: grey;
+  border-width: 1px;
+  border-color: grey;
+  border-style: solid;
+  color: white;
+  height: 38px;
+}
+.slashSection {
+  background-color: grey;
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.slugTextSection {
+  display: flex;
+  flex: 1;
+  color: white;
+  background-color: grey;
+  height: 34px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-color: grey;
+  border-style: solid;
+}
+.buttonsSection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.actionButton {
+  padding-left: 5px;
+  padding-right: 5px;
+}

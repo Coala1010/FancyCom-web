@@ -1,0 +1,64 @@
+.screen {
+  flex: 1;
+  background-color: white;
+  margin-top: 10px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.leftBar {
+  flex: 1;
+  width: 5px;
+  height: 100%;
+  background-color: #81BC7E,
+}
+.taskCard {
+  width: 100%;
+  padding: 10;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-color: #EBF0F4;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+  border-right-width: 2px;
+  border-style: solid;
+}
+.iconSection {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.textSection {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.titleText {
+  color: #425867;
+  font-weight: bold;
+  font-size: 14;
+}
+.contentText {
+  color: #4F6272;
+  font-weight: 500;
+  font-size: 12;
+  margin-top: 5px;
+}
+.buttonSection {
+  background-color: #81BC7E;
+  padding: 5px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.buttonText {
+  color: white;
+  font-weight: 500;
+  font-size: 12px,
+}
